@@ -1,2 +1,2 @@
-# themagicalsquare
+# theonlinequiz
 Java basic practical implemenations
